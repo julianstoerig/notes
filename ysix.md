@@ -1,7 +1,7 @@
 ---
 id: ysix
 date: 2026-05-17
-tags: []
+tags: [measure, signal-analyzer, noise, math]
 title: noise measurement
 ---
 
