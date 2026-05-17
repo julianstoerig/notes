@@ -1,8 +1,8 @@
 ---
-id: ysix
-date: 2026-05-17
-tags: [measure, signal-analyzer, noise, math]
 title: noise measurement
+tags: [measure, signal-analyzer, noise, math]
+date: 2026-05-17T16:35:25
+id: qrnm
 ---
 
 When measuring AWGN noise with a swept spectrum analyzer using
