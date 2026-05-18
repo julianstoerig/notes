@@ -17,7 +17,7 @@ This bias is the product of two different effects.
 
 ## Envelope Detector
 
-The envelope detector averages signal voltage as `mean(v)`, not `root(mean(v**2))`
+The envelope detector averages signal voltage as `mean(v)`, not `root(mean(v**2))`/`root(mean(p))`
 
 ## Log Amplifier
 
