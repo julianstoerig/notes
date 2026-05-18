@@ -14,6 +14,7 @@ These should be preferred on linux as they tend to create smaller archives, but 
 ```bash
 # create archive:
 # The -f flag takes the archive name as argument, so it must come *immediately* before that!
-tar -czf <archive-name>.tar.gz <dir-to-archive-name># unpack archive
+tar -czf <archive-name>.tar.gz <dir-to-archive-name>
+# unpack archive
 tar -xzf <archive-name>.tar.gz
 ```
