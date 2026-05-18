@@ -11,7 +11,7 @@ When measuring AWGN noise with a swept spectrum analyzer using
 - log display
 - log-domain averaging
 
-the displayed noise level is biased by approximately -2.5dB                                                                                                  .
+the displayed noise level is biased by approximately -2.5dB.
 
 This bias is the product of two different effects.
 
