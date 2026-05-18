@@ -1,6 +1,6 @@
 ---
 title: file archives
-tags: [it,unix]
+tags: [it, unix]
 date: 2026-05-18T08:54:52
 id: cqts
 ---
