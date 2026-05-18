@@ -1,6 +1,6 @@
 ---
 title: noise measurement
-tags: [measure, signal-analyzer, noise, maths]
+tags: [ee, measure, signal-analyzer, noise, maths]
 date: 2026-05-17T16:35:25
 id: qrnm
 ---
