@@ -1,5 +1,5 @@
 ---
-title: mount a usbdrive on linux
+title: mount a usb drive on linux
 tags: [it, unix]
 date: 2026-05-18T09:17:33
 id: iiiw
