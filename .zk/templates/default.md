@@ -1,8 +1,10 @@
 ---
 title: {{title}}
 tags: []
-date: {{format-date now "%Y-%m-%dT%H:%M:%S"}}
+date: {{format-date now "%Y-%m-%d"}}
 id: {{id}}
+author: Julian Stoerig
+csl: ieee.csl
 ---
 
 {{content}}

@@ -1,8 +1,9 @@
 ---
 title: interpolation
 tags: [maths]
-date: 2026-05-18T14:24:23
+date: 2026-05-18
 id: qkmt
+author: Julian Stoerig
 ---
 
 Choosing the right algorithm for the situation is fundamentally important to interpolation.

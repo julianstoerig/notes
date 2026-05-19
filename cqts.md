@@ -1,8 +1,9 @@
 ---
 title: file archives
-tags: [it, unix]
-date: 2026-05-18T08:54:52
+tags: [it, linux]
+date: 2026-05-18
 id: cqts
+author: Julian Stoerig
 ---
 
 There are different programs for creating various archive types.

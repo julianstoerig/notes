@@ -1,11 +1,12 @@
 ---
 title: find and replace across file on linux
-tags: [it, unix]
-date: 2026-05-19T15:30:53
+tags: [it, linux]
+date: 2026-05-19
 id: t8zt
+author: Julian Stoerig
 ---
 
-To find and replace files on linux, the obvious choice are the standard unix tools.
+To find and replace files on linux, the obvious choice are the standard linux tools.
 
 ## Preview Matches
 
@@ -23,10 +24,10 @@ where `-n` shows line numbers. Adding `-R` makes it recursive and adding `-i` ma
 
 It is important to use `-name <name>` to restrict the file extension: `-name "*.c"`. This avoids corrupting binary files.
 
-There is a flag for `sed`, `-i.bak`, that creates backups of every file on which a change is performed.
+There is a flag for `sed`, `-i.bak`, that creates backups of every file on which a change is performed. The backups have filename `<filename-with-extension>.bak`
 
 Using these best practices, a simple command is:
 
 ```bash
-find . -type f -name ".c" -exec sed -i 's|<old-text>|<new-text>|g' {} +
+find . -type f -name ".c" -exec sed -i.bak 's|<old-text>|<new-text>|g' {} +
 ```

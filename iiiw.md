@@ -1,8 +1,9 @@
 ---
 title: mount a usb drive on linux
-tags: [it, unix]
-date: 2026-05-18T09:17:33
+tags: [it, linux]
+date: 2026-05-18
 id: iiiw
+author: Julian Stoerig
 ---
 
 On many linux distributions a GUI solution exists, this solution may be superfluous there. If no such solution exists, follow these steps:

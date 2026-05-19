@@ -1,8 +1,9 @@
 ---
 title: combine numpy arrays
 tags: [pr, python, numpy]
-date: 2026-05-19T11:31:15
+date: 2026-05-19
 id: ei7z
+author: Julian Stoerig
 ---
 
 ## Combine vectors to a matrix 

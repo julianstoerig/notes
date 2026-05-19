@@ -1,8 +1,9 @@
 ---
 title: noise measurement
 tags: [ee, measure, signal-analyzer, noise, maths]
-date: 2026-05-17T16:35:25
+date: 2026-05-17
 id: qrnm
+author: Julian Stoerig
 ---
 
 When measuring AWGN noise with a swept spectrum analyzer using
